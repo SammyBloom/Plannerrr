@@ -1,0 +1,54 @@
+<resources>
+    <!--for mainly the mainActivity-->
+    <string name="app_name">Plannerr</string>
+    <string name="login">Login</string>
+    <string name="app_name_capital">PLANNER</string>
+    <string name="signup">Sign Up</string>
+    <string name="writeup_for_firstPage">Working Together Beautifully</string>
+    <string name="have_an_acct">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="firstname">Firstname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone No</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="signup_writeup">Get your team working together with just a few clicks.</string>
+    <string name="signin_writeup">Let\'s go back to work</string>
+    <string name="code">Enter Code</string>
+    <string name="confirmation_writeup">Please enter code sent to your inbox</string>
+    <string name="proceed">Proceed</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Username</string>
+
+    <string-array name="difficulty">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_team">Teams</string>
+    <string name="startup_note">Welcome, the journey of a thosand miles 
